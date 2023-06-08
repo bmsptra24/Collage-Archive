@@ -1,0 +1,1 @@
+*arrayLenght / 2.0

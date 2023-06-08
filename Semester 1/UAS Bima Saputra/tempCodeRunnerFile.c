@@ -1,0 +1,1 @@
+printf("\nPajak Pengiriman %s : Rp. %d", jenisPengiriman, pajak);
