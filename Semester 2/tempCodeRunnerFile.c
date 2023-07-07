@@ -1,5 +1,1 @@
-for (int i = 0; i < jumlahData; i++)
-    {
-        printf("-");
-    }
-    printf("\n");
+Program mengurutkan data tinggi badan siswa

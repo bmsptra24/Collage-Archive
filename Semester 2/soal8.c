@@ -1,4 +1,5 @@
 // Bima Saputra - 2IA
+// Buatlah sebuah program untuk mengurutkan sepasang data yang dimasukkan berdasarkan abjad/huruf.
 #include <stdio.h>
 
 void displayLine(int *jumlahBaris)
